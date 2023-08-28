@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.navbar-main
+{
+  height: 3vw;
+  text-align: center;
+}
+
+.play-main
+{
+  text-align: center;
+}
